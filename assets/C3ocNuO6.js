@@ -1,0 +1,1 @@
+import{u as n}from"./8zIiL_BV.js";function l({size:a=8}){return n("span",{className:`loading loading-spinner ${{4:"loading-xs",8:"loading-md",12:"loading-lg",16:"loading-xl"}[a]||"loading-md"}`,role:"status","aria-label":"Loading"})}export{l as S};
