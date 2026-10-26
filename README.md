@@ -8,7 +8,7 @@ in Shot History, and the 32 custom themes with their brew-button videos work (Ma
 
 Nothing is saved and nothing is sent anywhere. A reload starts over.
 
-- Firmware, release file, web flasher and source: https://github.com/centurius222/DeLongezzi
+- Firmware, release file, web flasher and source: https://github.com/centurius222/DeLongezzi#readme
 - This site is built from that repo's `web/` folder with `vite build --config vite.demo.config.js`;
   the made-up machine is in `web/src/demo/`.
 
